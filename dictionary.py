@@ -1,0 +1,16 @@
+#n={"naresh":2,5:"hello"}
+#print(type(n))
+#n[5]="ram"
+#print(n)
+#print(n.get("naresh"))
+#print(n.items())
+#print(n.keys())
+#print(n.values())
+#n.update({"hello":123})
+#print(n)
+#n.pop("naresh")
+#wprint(n)
+#n={1:"naresh",2:"vijay",3:{5:"kumar"}}
+#print(n)
+#print(n[2])
+#print(n[3][5])
